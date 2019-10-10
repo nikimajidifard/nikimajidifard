@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "niki majidifard"
-  avatar           : /assets/images/7.png
+  avatar           : <img src="/assets/images/7.png" alt="niki majidifard" itemprop="image">
   bio              : I'm studying computer engineering at IUST.
   location         : "تهران"
   email            : nikimajidifard.mfa@gmail.com
