@@ -33,6 +33,7 @@ gallery:
     title: "Image 9 title caption"
 
 
+
    
 
     
@@ -40,6 +41,15 @@ gallery:
    
      
 ---
+
+<html>
+<body>
+
+<h2></h2>
+<img src="/assets/images/16.jpg" alt="Flowers in Chania" width="460" height="345">
+
+</body>
+</html>
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
