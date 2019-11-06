@@ -7,10 +7,10 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/16.jpg
-    image_path: /assets/images/16.jpg
-    alt: "placeholder image 16"
-    title: "Image 16 title caption"
+  - url: /assets/images/2.jpg
+    image_path: /assets/images/2.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
     url: /assets/images/4.jpg
     image_path: /assets/images/4.jpg
     alt: "placeholder image 4"
@@ -42,14 +42,6 @@ gallery:
      
 ---
 
-<html>
-<body>
-
-<h2></h2>
-<img src="/assets/images/2.jpg" alt="Flowers in Chania" width="460" height="345">
-
-</body>
-</html>
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
