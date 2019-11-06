@@ -46,7 +46,7 @@ gallery:
 <body>
 
 <h2></h2>
-<img src="/assets/images/16.jpg" alt="Flowers in Chania" width="460" height="345">
+<img src="/assets/images/2.jpg" alt="Flowers in Chania" width="460" height="345">
 
 </body>
 </html>
