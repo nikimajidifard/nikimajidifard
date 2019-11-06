@@ -11,10 +11,10 @@ gallery:
     image_path: /assets/images/17.jpg
     alt: "placeholder image 17"
     title: "Image 17 title caption"
-  - url: /assets/images/19.jpg
-    image_path: /assets/images/19.jpg
-    alt: "placeholder image 19"
-    title: "Image 19 title caption"
+  - url: /assets/images/20.jpg
+    image_path: /assets/images/20.jpg
+    alt: "placeholder image 20"
+    title: "Image 20 title caption"
   - url: /assets/images/5.jpg
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
