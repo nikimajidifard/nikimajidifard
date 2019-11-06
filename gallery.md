@@ -11,10 +11,6 @@ gallery:
     image_path: /assets/images/16.jpg
     alt: "placeholder image 16"
     title: "Image 16 title caption"
-  - url: /assets/images/16.jpg
-    image_path: /assets/images/16.jpg
-    alt: "placeholder image 16"
-    title: "Image 16 title caption"  
     url: /assets/images/4.jpg
     image_path: /assets/images/4.jpg
     alt: "placeholder image 4"
