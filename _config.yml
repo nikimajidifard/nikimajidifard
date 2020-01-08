@@ -136,6 +136,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "calendly"
+      icon: "fab fa-fw fa-calendly"
+      # url: "https://calendly.com/niki-mfa"
+
 
 # Site Footer
 footer:
