@@ -13,11 +13,11 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "نیکی مجیدی فرد"
+title                    : "Niki Majidifard"
 title_separator          : "-"
 name                     : "niki" 
 description              : "Welcome to my web site."
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "niki majidifard"
+  name             : "Niki Majidifard"
   avatar           : "/assets/images/new.jpg"
   bio              : I'm studying computer engineering at IUST.
-  location         : "تهران"
+  location         : "Tehran"
   email            : nikimajidifard.mfa@gmail.com
   twitter:  
   linkedin: niki-majidifard-937b96195
